@@ -1,0 +1,75 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      2073,         67]
+NotebookOptionsPosition[      1435,         48]
+NotebookOutlinePosition[      1899,         65]
+CellTagsIndexPosition[      1856,         62]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Year 10 Curriculum", "Title",
+ CellChangeTimes->{{3.9509142300293064`*^9, 3.9509142513276215`*^9}, {
+  3.9510884919686375`*^9, 
+  3.9510884991700726`*^9}},ExpressionUUID->"5b341fd9-aec2-014b-9bb4-\
+1992ff207c16"],
+
+Cell["Mathematica Bound-Reference", "Title",
+ CellChangeTimes->{{3.9509142300293064`*^9, 3.9509142513276215`*^9}, {
+  3.9510884919686375`*^9, 
+  3.951088502162945*^9}},ExpressionUUID->"1cc8f37f-49d7-1846-b5f0-\
+a006ab0d3f05"],
+
+Cell[TextData[{
+ "Authored by ",
+ ButtonBox["gptreliance",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://github.com/gptreliance"], None},
+  ButtonNote->"https://github.com/gptreliance"]
+}], "Section",
+ CellChangeTimes->{{3.9509143447220287`*^9, 3.9509143790452766`*^9}, {
+  3.950914451440115*^9, 
+  3.9509144514410305`*^9}},ExpressionUUID->"499f883c-2759-3845-8675-\
+c0fe95d86652"]
+}, Open  ]]
+},
+WindowSize->{538, 645.5},
+WindowMargins->{{Automatic, -4.5}, {Automatic, 0}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
+StyleDefinitions->FrontEnd`FileName[{"Book"}, "Textbook.nb", 
+  CharacterEncoding -> "UTF-8"],
+ExpressionUUID->"63a9c551-1d44-7b48-8674-244630a64c27"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 218, 4, 80, "Title",ExpressionUUID->"5b341fd9-aec2-014b-9bb4-1992ff207c16"],
+Cell[797, 28, 225, 4, 131, "Title",ExpressionUUID->"1cc8f37f-49d7-1846-b5f0-a006ab0d3f05"],
+Cell[1025, 34, 394, 11, 55, "Section",ExpressionUUID->"499f883c-2759-3845-8675-c0fe95d86652"]
+}, Open  ]]
+}
+]
+*)
+

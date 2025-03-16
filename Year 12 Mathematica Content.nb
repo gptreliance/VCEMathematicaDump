@@ -1,0 +1,75 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      2118,         67]
+NotebookOptionsPosition[      1485,         48]
+NotebookOutlinePosition[      1944,         65]
+CellTagsIndexPosition[      1901,         62]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Year 12 Curriculum", "Title",
+ CellChangeTimes->{{3.9509142300293064`*^9, 3.9509142513276215`*^9}, {
+  3.9510884919686375`*^9, 3.9510884991700726`*^9}, {3.9511498269839153`*^9, 
+  3.9511498270814342`*^9}},ExpressionUUID->"371b9a11-04da-744c-a10e-\
+2f3422721b1a"],
+
+Cell["Mathematica Bound-Reference", "Title",
+ CellChangeTimes->{{3.9509142300293064`*^9, 3.9509142513276215`*^9}, {
+  3.9510884919686375`*^9, 
+  3.951088502162945*^9}},ExpressionUUID->"ce5690ed-55a2-be48-843f-\
+f650eae15a37"],
+
+Cell[TextData[{
+ "Authored by ",
+ ButtonBox["gptreliance",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://github.com/gptreliance"], None},
+  ButtonNote->"https://github.com/gptreliance"]
+}], "Section",
+ CellChangeTimes->{{3.9509143447220287`*^9, 3.9509143790452766`*^9}, {
+  3.950914451440115*^9, 
+  3.9509144514410305`*^9}},ExpressionUUID->"1cd1b799-75f5-dc4a-899d-\
+62fd819d2f8b"]
+}, Open  ]]
+},
+WindowSize->{538, 641},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
+StyleDefinitions->FrontEnd`FileName[{"Book"}, "Textbook.nb", 
+  CharacterEncoding -> "UTF-8"],
+ExpressionUUID->"63a9c551-1d44-7b48-8674-244630a64c27"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 268, 4, 80, "Title",ExpressionUUID->"371b9a11-04da-744c-a10e-2f3422721b1a"],
+Cell[847, 28, 225, 4, 131, "Title",ExpressionUUID->"ce5690ed-55a2-be48-843f-f650eae15a37"],
+Cell[1075, 34, 394, 11, 55, "Section",ExpressionUUID->"1cd1b799-75f5-dc4a-899d-62fd819d2f8b"]
+}, Open  ]]
+}
+]
+*)
+
