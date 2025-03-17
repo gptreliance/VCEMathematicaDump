@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[      2073,         67]
-NotebookOptionsPosition[      1435,         48]
-NotebookOutlinePosition[      1899,         65]
-CellTagsIndexPosition[      1856,         62]
+NotebookDataLength[      9012,        256]
+NotebookOptionsPosition[      6298,        205]
+NotebookOutlinePosition[      6762,        222]
+CellTagsIndexPosition[      6719,        219]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -44,6 +44,163 @@ Cell[TextData[{
   3.950914451440115*^9, 
   3.9509144514410305`*^9}},ExpressionUUID->"499f883c-2759-3845-8675-\
 c0fe95d86652"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["T01", "BookChapterNumber",
+ CellChangeTimes->{{3.951152198668661*^9, 
+  3.951152206857239*^9}},ExpressionUUID->"b6548950-bcf6-b243-8065-\
+a7be51e59678"],
+
+Cell["Linear Relations and Equations", "BookChapterTitle",
+ CellChangeTimes->{{3.951152224058399*^9, 
+  3.951152238058569*^9}},ExpressionUUID->"268d850b-084e-2444-8c41-\
+80bc26279f4a"],
+
+Cell[CellGroupData[{
+
+Cell["Performing Basic Operations", "Section",
+ CellChangeTimes->{{3.9511522429032974`*^9, 
+  3.951152248351095*^9}},ExpressionUUID->"e21afb4a-8715-d048-ab8b-\
+b60ab82dc85d"],
+
+Cell["Use + for addition", "Text",
+ CellChangeTimes->{{3.951152279751236*^9, 
+  3.9511522876747894`*^9}},ExpressionUUID->"e287dd40-76eb-b545-9ce3-\
+681a8cebb19e"],
+
+Cell["Use - for subtraction", "Text",
+ CellChangeTimes->{{3.951152279751236*^9, 
+  3.9511522957707787`*^9}},ExpressionUUID->"363f3dfe-7699-6e4e-a168-\
+c05a8a7b7e33"],
+
+Cell["Use * for multiplication", "Text",
+ CellChangeTimes->{{3.951152279751236*^9, 
+  3.951152324872881*^9}},ExpressionUUID->"8bd13ce4-4976-4943-86d9-\
+ac9c7c023e53"],
+
+Cell["Use / for division", "Text",
+ CellChangeTimes->{{3.951152279751236*^9, 3.951152331689123*^9}, {
+  3.9511524576617203`*^9, 
+  3.9511524576627197`*^9}},ExpressionUUID->"2112ecb2-a0c9-1f4f-a4cf-\
+8ce9c0ca89b9"],
+
+Cell[TextData[{
+ "Press Ctrl ",
+ StyleBox["+",
+  FontWeight->"Bold"],
+ " / for a fraction ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"(", 
+    FractionBox["x", "y"], ")"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "63523e47-eed3-2a43-9fc2-ed346e698bbe"]
+}], "Text",
+ CellChangeTimes->{{3.951152279751236*^9, 3.951152336946018*^9}, {
+  3.9511525730275173`*^9, 
+  3.9511525987575264`*^9}},ExpressionUUID->"be3ead33-cd75-7742-812d-\
+a06e45d767ce"],
+
+Cell[TextData[{
+ "Use ^ for powers, or Ctrl ",
+ StyleBox["+",
+  FontWeight->"Bold"],
+ " 6"
+}], "Text",
+ CellChangeTimes->{{3.9511526056294956`*^9, 3.951152606548994*^9}, {
+  3.9511526606596985`*^9, 3.9511526624631824`*^9}, {3.951152724605448*^9, 
+  3.9511527288041973`*^9}},ExpressionUUID->"19b9e02c-2400-2648-9949-\
+272ae4698446"],
+
+Cell["Use /. to substitute", "Text",
+ CellChangeTimes->{{3.9511527826501675`*^9, 3.951152785648449*^9}, {
+   3.951152860993683*^9, 3.951152862978739*^9}, 
+   3.951237578664875*^9},ExpressionUUID->"ef011c07-7627-fb44-8168-\
+6cbe1aaae45a"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"2", "a"}], "+", "5"}], "/.", 
+  RowBox[{"a", "->", "3"}]}]], "Input",
+ CellChangeTimes->{{3.951237594987049*^9, 3.951237618184719*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"7bf508cc-8549-ff40-a635-d765e0a7f6b4"],
+
+Cell[BoxData["11"], "Output",
+ CellChangeTimes->{3.951237621640934*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"533419f4-92bf-9643-a9c8-d7f7c289ad84"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Simplifying Expressions", "Section",
+ CellChangeTimes->{{3.9511522429032974`*^9, 3.951152248351095*^9}, {
+  3.9512386853600636`*^9, 
+  3.951238690188406*^9}},ExpressionUUID->"d0977045-7c4d-cd47-9a2b-\
+502df9832722"],
+
+Cell["\<\
+Typing an expression and executing it (Shift + Enter) will automatically \
+simplify things:\
+\>", "Text",
+ CellChangeTimes->{{3.9512386933359585`*^9, 
+  3.9512387224370575`*^9}},ExpressionUUID->"2377f763-ece2-5240-9a95-\
+6b6075d6f043"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"4", "a"}], "+", 
+  RowBox[{"3", "b"}], "-", 
+  RowBox[{"12", "b"}], "+", 
+  RowBox[{"4", "a", "*", "b"}]}]], "Input",
+ CellChangeTimes->{{3.9512387423252544`*^9, 3.951238750843113*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"4b856c82-92ff-b643-8b4f-a71efcca24c6"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"4", " ", "a"}], "-", 
+  RowBox[{"9", " ", "b"}], "+", 
+  RowBox[{"4", " ", "a", " ", "b"}]}]], "Output",
+ CellChangeTimes->{3.951238753069374*^9},
+ CellLabel->"Out[4]=",ExpressionUUID->"da1ceb48-d033-cb49-ab60-eb46a34469ec"]
+}, Open  ]],
+
+Cell["Simplify[] or FullSimplify[] can also be used", "Text",
+ CellChangeTimes->{{3.951238757914835*^9, 
+  3.951238794994465*^9}},ExpressionUUID->"dddbd3ca-e1ee-2b4c-80e9-\
+bc110915f69c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Simplify", "[", 
+  RowBox[{
+   RowBox[{"2", "x"}], "+", "4", "-", 
+   RowBox[{"3", 
+    RowBox[{"(", 
+     RowBox[{"x", "+", "1"}], ")"}]}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.9512388076126747`*^9, 3.951238818218401*^9}},
+ CellLabel->"In[5]:=",ExpressionUUID->"019130aa-6e7c-6649-adff-4ab2f70b879a"],
+
+Cell[BoxData[
+ RowBox[{"1", "-", "x"}]], "Output",
+ CellChangeTimes->{3.9512388201736393`*^9},
+ CellLabel->"Out[5]=",ExpressionUUID->"c4fcde8c-27b9-b64a-8c66-afd59e854e49"]
+}, Open  ]]
+}, Open  ]],
+
+Cell["Simplifying Expressions", "Section",
+ CellChangeTimes->{{3.9511522429032974`*^9, 3.951152248351095*^9}, {
+  3.9512386853600636`*^9, 
+  3.951238690188406*^9}},ExpressionUUID->"2a157c48-f9fd-9d4f-a273-\
+9391e1355cd5"]
 }, Open  ]]
 },
 WindowSize->{538, 645.5},
@@ -68,6 +225,38 @@ Cell[CellGroupData[{
 Cell[576, 22, 218, 4, 80, "Title",ExpressionUUID->"5b341fd9-aec2-014b-9bb4-1992ff207c16"],
 Cell[797, 28, 225, 4, 131, "Title",ExpressionUUID->"1cc8f37f-49d7-1846-b5f0-a006ab0d3f05"],
 Cell[1025, 34, 394, 11, 55, "Section",ExpressionUUID->"499f883c-2759-3845-8675-c0fe95d86652"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1456, 50, 158, 3, 153, "BookChapterNumber",ExpressionUUID->"b6548950-bcf6-b243-8065-a7be51e59678"],
+Cell[1617, 55, 184, 3, 128, "BookChapterTitle",ExpressionUUID->"268d850b-084e-2444-8c41-80bc26279f4a"],
+Cell[CellGroupData[{
+Cell[1826, 62, 174, 3, 55, "Section",ExpressionUUID->"e21afb4a-8715-d048-ab8b-b60ab82dc85d"],
+Cell[2003, 67, 162, 3, 21, "Text",ExpressionUUID->"e287dd40-76eb-b545-9ce3-681a8cebb19e"],
+Cell[2168, 72, 165, 3, 21, "Text",ExpressionUUID->"363f3dfe-7699-6e4e-a168-c05a8a7b7e33"],
+Cell[2336, 77, 166, 3, 21, "Text",ExpressionUUID->"8bd13ce4-4976-4943-86d9-ac9c7c023e53"],
+Cell[2505, 82, 213, 4, 21, "Text",ExpressionUUID->"2112ecb2-a0c9-1f4f-a4cf-8ce9c0ca89b9"],
+Cell[2721, 88, 468, 15, 31, "Text",ExpressionUUID->"be3ead33-cd75-7742-812d-a06e45d767ce"],
+Cell[3192, 105, 331, 9, 21, "Text",ExpressionUUID->"19b9e02c-2400-2648-9949-272ae4698446"],
+Cell[3526, 116, 237, 4, 21, "Text",ExpressionUUID->"ef011c07-7627-fb44-8168-6cbe1aaae45a"],
+Cell[CellGroupData[{
+Cell[3788, 124, 260, 6, 29, "Input",ExpressionUUID->"7bf508cc-8549-ff40-a635-d765e0a7f6b4"],
+Cell[4051, 132, 149, 2, 29, "Output",ExpressionUUID->"533419f4-92bf-9643-a9c8-d7f7c289ad84"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4249, 140, 221, 4, 55, "Section",ExpressionUUID->"d0977045-7c4d-cd47-9a2b-502df9832722"],
+Cell[4473, 146, 245, 6, 21, "Text",ExpressionUUID->"2377f763-ece2-5240-9a95-6b6075d6f043"],
+Cell[CellGroupData[{
+Cell[4743, 156, 298, 7, 29, "Input",ExpressionUUID->"4b856c82-92ff-b643-8b4f-a71efcca24c6"],
+Cell[5044, 165, 259, 6, 29, "Output",ExpressionUUID->"da1ceb48-d033-cb49-ab60-eb46a34469ec"]
+}, Open  ]],
+Cell[5318, 174, 187, 3, 21, "Text",ExpressionUUID->"dddbd3ca-e1ee-2b4c-80e9-bc110915f69c"],
+Cell[CellGroupData[{
+Cell[5530, 181, 329, 8, 29, "Input",ExpressionUUID->"019130aa-6e7c-6649-adff-4ab2f70b879a"],
+Cell[5862, 191, 172, 3, 29, "Output",ExpressionUUID->"c4fcde8c-27b9-b64a-8c66-afd59e854e49"]
+}, Open  ]]
+}, Open  ]],
+Cell[6061, 198, 221, 4, 55, "Section",ExpressionUUID->"2a157c48-f9fd-9d4f-a273-9391e1355cd5"]
 }, Open  ]]
 }
 ]
